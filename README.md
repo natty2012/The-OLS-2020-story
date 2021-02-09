@@ -39,7 +39,7 @@ As junior post-graduates, we hoped the learning experience would, in the long ru
 
 *“The open canvas has been really useful in crystallizing the project's vision; brainstorming on the different aspects of the project like the project goals, resources required to build a minimum viable product, potential adopters, contributors, collaborators and the unique value addition.”*
 
-*“Researching on the project usability before actual project building is another plus from the OLS journey; surveying other similar projects gave inspiration to keeping pushing through crystallizing the project based on potential gaps from market research.”
+*“Researching on the project usability before actual project building is another plus from the OLS journey; surveying other similar projects gave inspiration to keeping pushing through crystallizing the project based on potential gaps from market research.”*
 
 ## The main goals achieved in the project
 We have gone through a great deal of learning about: 
