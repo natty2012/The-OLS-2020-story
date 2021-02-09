@@ -40,23 +40,23 @@ As junior post-graduates, we hoped the learning experience would, in the long ru
 
 ## The main goals achieved in the project
 We have gone through a great deal of learning about: 
-a)	Various open science practices such as licensing for open projects, using the open canvas for project design and strategy, readme files for project description and inviting contributors
-b)	The central role open access publishing has played in the covid-19 era
-c)	Git-hub and how to navigate it as a platform for collaborative work
-d)	Market research, where we were exposed, through our mentor Naomi, to other projects for inspiration and understanding of our project area
-e)	User research interviews, where we generated interview questions and conducted some interviews with researchers in the community so as to test the project open canvas – this was a major milestone for the project.
-f)	The importance of personal wellness and care when working on a project
+- Various open science practices such as licensing for open projects, using the open canvas for project design and strategy, readme files for project description and inviting contributors
+- The central role open access publishing has played in the covid-19 era
+- Git-hub and how to navigate it as a platform for collaborative work
+- Market research, where we were exposed, through our mentor Naomi, to other projects for inspiration and understanding of our project area
+- User research interviews, where we generated interview questions and conducted some interviews with researchers in the community so as to test the project open canvas – this was a major milestone for the project.
+- The importance of personal wellness and care when working on a project
 
 ## What elements helped you get there?
 The following elements have gone a long way in helping us grow in our learning experience as open science leaders during the OLS-2 program:
-a)	The invaluable efforts of the OLS organizers to put together the various cohort sessions where we always learnt a new concept of open science
-b)	The precious time spent with our mentor Naomi thinking through the project and our next steps
-c)	The OLS-2 cohort community sharing their various experiences which inspired and enriched our learning.
+- The invaluable efforts of the OLS organizers to put together the various cohort sessions where we always learnt a new concept of open science
+- The precious time spent with our mentor Naomi thinking through the project and our next steps
+- The OLS-2 cohort community sharing their various experiences which inspired and enriched our learning.
 
 ## Next steps
 ### The immediate step is to...
-a)	We are currently looking forward to conducting more user research interviews to shape the direction of the project. The outcome of this will hopefully help us explore different ideas or thoughts about the project.
-b)	We are also hoping to keep using and sharpening on the formal learning and skills (such as Git-hub) acquired through the OLS-2 program.
+- We are currently looking forward to conducting more user research interviews to shape the direction of the project. The outcome of this will hopefully help us explore different ideas or thoughts about the project.
+- We are also hoping to keep using and sharpening on the formal learning and skills (such as Git-hub) acquired through the OLS-2 program.
 
 ## Longer term tasks
 The longer term goal is to hopefully create beneficial experiences in our communities through the project we are building, which will set a good stage to promote more awareness of the value of open science communication and open science generally.
@@ -64,16 +64,16 @@ Inviting more efforts and inputs to collaborate on this project is also part of 
 
 ## Staying connected
 We look forward to:
-a)	Keep working together with our OLS mentor, Naomi Penfold
-b)	Keep communication channels open and active with the OLS cohort community, including the OLS organizers. Kindly see our [project issue](https://github.com/open-life-science/ols-2/issues/85) on the OLS repo for more contact details
+- Keep working together with our OLS mentor, Naomi Penfold
+- Keep communication channels open and active with the OLS cohort community, including the OLS organizers. Kindly see our [project issue](https://github.com/open-life-science/ols-2/issues/85) on the OLS repo for more contact details
 
 ## Special mentions and acknowledgments
 Many thanks to:
-a)	the OLS organisers - Yo Yehudi, Malvika Sharan, Berenice Batut and Emmy Tsang for organising the OLS-2 program
-b)	the entire OLS-2 cohort community i.e. all the project leads for participating in the program and sharing their experiences; the OLS-2 mentors and experts for availing their time and expertise.
-c)	Meag Doherty, an OLS-2 expert and mentor, for taking time to share resources and insights with us on user research interviews – we learnt some new ideas on value exchanges and the use of personas
-d)	Emma J. Owidi, an interviews expert from KEMRI-Kenya, for sharing valuable tips and information on how to conduct zoom and phone call interviews
-e)  User research interviewees from Kenya
-f)	Naomi Penfold, our OLS-2 mentor for walking with us the whole OLS journey
+- the OLS organisers - Yo Yehudi, Malvika Sharan, Berenice Batut and Emmy Tsang for organising the OLS-2 program
+- the entire OLS-2 cohort community i.e. all the project leads for participating in the program and sharing their experiences; the OLS-2 mentors and experts for availing their time and expertise.
+- Meag Doherty, an OLS-2 expert and mentor, for taking time to share resources and insights with us on user research interviews – we learnt some new ideas on value exchanges and the use of personas
+- Emma J. Owidi, an interviews expert from KEMRI-Kenya, for sharing valuable tips and information on how to conduct zoom and phone call interviews
+- User research interviewees from Kenya
+- Naomi Penfold, our OLS-2 mentor for walking with us the whole OLS journey
 
 *Compiled by Harriet Natabona, Brenda Muthoni and Jelioth Muthoni*
