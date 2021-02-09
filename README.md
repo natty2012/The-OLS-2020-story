@@ -17,21 +17,24 @@ We also sought to apply these learnings by thinking critically about the project
 As junior post-graduates, we hoped the learning experience would, in the long run, shape our mindsets in our career journeys, produce a positive influence on us as well as those we interact with along the way.
 
 ## Key understanding and accomplishments
-*Brenda says:*
+**Brenda says:**
+
 “Open inclusion and collaboration when working on a project; involving others the whole step has shown me some significant benefits of working together on a project”
 
 “The significance of self-care and personal ecology in replenishing one’s energy while working on a project; Looking after personal wellness through occasional breaks helps to keep one refreshed to continue working on a project.”
 
 “The open canvas helped me think deeper about the project in terms of the contributors, collaborators and the problem at hand; it also helped to measure project goals and success”
 
-*Jelioth says:*
+**Jelioth says:**
+
 “The importance of creating a conducive environment for the project to nurture positive and negative feedback which goes a long way in building the direction of a project.”
 
 “The general impact of gifting in encouraging good relationships especially with potential contributors, users and collaborators.”
 
 “Conducting user research interviews to test the open canvas is a great learning point for me. I realized the importance of understanding the user needs on the ground before building something. This goes a long way in knowing and building a product that is useful for the community.”
 
-*Harriet says:*
+**Harriet says:**
+
 “Github is one OLS gem I take home - it is a powerful project collaborative tool that breaks the boundaries of location. It makes working collaboratively on a project easy regardless of place and time while tracking the different versions of the work.”
 
 “The open canvas has been really useful in crystallizing the project's vision; brainstorming on the different aspects of the project like the project goals, resources required to build a minimum viable product, potential adopters, contributors, collaborators and the unique value addition.”
