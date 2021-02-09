@@ -15,11 +15,13 @@ Finally, Brenda and Jelioth, who shared similar sentiments with academic paywall
 *Swahili is an indigenous language spoken in Kenya, East Africa (Brenda, Jelioth and I are natives of Kenya)*
 
 ## Expectations from the program
-The OLS-2 program provided a timely chance to learn and gain formal exposure on Open Science practice, especially in the area of open access publishing including the various available open publishing platforms. Brenda, Jelioth and I had little exposure and knowledge in the area of open access publishing and open science practice generally.
-Since it was a beginners’ journey, we were excited to be part of the learning experience under the guidance of our OLS mentor, Naomi Penfold. We looked forward to lots of learning and understanding and meeting with a diversity of people across the globe with different projects participating in the program
+The OLS-2 program provided a timely chance to learn and gain formal exposure on Open Science practice, especially in the area of open access publishing including the various available open publishing platforms. 
+
+Brenda, Jelioth and I had little exposure and knowledge in the area of open access publishing and open science practice generally. Since it was a beginners’ journey, we were excited to be part of the learning experience under the guidance of our OLS mentor, Naomi Penfold. We looked forward to lots of learning and understanding and meeting with a diversity of people across the globe with different projects participating in the program
 
 ## Goals set at the beginning of the program
 One central mission for us was to acquire formal learning and exposure of open science publishing as well as different concepts of open science practice. The project, sparked by the covid-19 pandemic, presented an opportunity for us to participate in the invaluable OLS program - which could be termed as "a blessing in the disguise of global unrest from the corona virus.”
+
 We also sought to apply these learnings by thinking critically about the project and delving deeper towards understanding the final outcome we were envisioning to build.
 As junior post-graduates, we hoped the learning experience would, in the long run, shape our mindsets in our career journeys, produce a positive influence on us as well as those we interact with along the way.
 
