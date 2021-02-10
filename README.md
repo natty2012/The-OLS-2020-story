@@ -96,3 +96,7 @@ Many thanks to:
 - Naomi Penfold, our OLS-2 mentor for walking with us the whole OLS journey
 
 *Compiled by Harriet Natabona, Brenda Muthoni and Jelioth Muthoni*
+
+## Contributors
+@sonibk
+@Jelioth
