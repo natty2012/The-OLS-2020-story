@@ -59,6 +59,13 @@ We have gone through a great deal of learning about:
 - User research interviews, where we generated interview questions and conducted some interviews with researchers in the community so as to test the project open canvas – this was a major milestone for the project.
 - The importance of personal wellness and care when working on a project
 
+## The initial steps
+Naomi Penfold, an expert in open science communication, and our OLS mentor played a key role in the initial stages. 
+She:
+- enabled us delve into the problem with an objective mind by asking the right questions as well as sharing relevant resources, links and other similar projects.
+- in addition, created an environment for informative and productive meetings that sharpened and  shed more clarifying light to the project. 
+- led us into thinking through the project's vision and what the most immediate next steps could be.
+
 ## What elements helped you get there?
 The following elements have gone a long way in helping us grow in our learning experience as open science leaders during the OLS-2 program:
 - The invaluable efforts of the OLS organizers to put together the various cohort sessions where we always learnt a new concept of open science
