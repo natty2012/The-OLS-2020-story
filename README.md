@@ -95,9 +95,8 @@ Many thanks to:
 - User research interviewees from Kenya
 - Naomi Penfold, our OLS-2 mentor for walking with us the whole OLS journey
 
-*Compiled by Harriet Natabona, Brenda Muthoni and Jelioth Muthoni*
+*Compiled by Harriet Natabona* [@natty2012](https://github.com/natty2012)
 
 ## Contributors
-[@natty2012](https://github.com/natty2012)
-[@sonibk](https://github.com/sonibk)
-[@Jelioth](https://github.com/Jelioth)
+Brenda Muthoni [@sonibk](https://github.com/sonibk)
+Jelioth Muthoni [@Jelioth](https://github.com/Jelioth)
