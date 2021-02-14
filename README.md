@@ -98,5 +98,6 @@ Many thanks to:
 *Compiled by Harriet Natabona, Brenda Muthoni and Jelioth Muthoni*
 
 ## Contributors
+[@natty2012](https://github.com/natty2012)
 [@sonibk](https://github.com/sonibk)
 [@Jelioth](https://github.com/Jelioth)
